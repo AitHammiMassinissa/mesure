@@ -1,0 +1,19 @@
+graph{
+    padding: 40px;
+}
+node{
+    size:10px;
+    text-size:14px;
+    text-alignment: at-right;
+    text-offset: 5px, 10px;
+}
+
+
+node.infecte {
+	fill-color: red;
+}
+edge {
+    size : 1.25px;
+    fill-color: #c0c0c0;
+    text-size: 10;
+}
